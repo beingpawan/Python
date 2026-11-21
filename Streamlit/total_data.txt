@@ -1,5 +1,0 @@
-Hello this is Gen AI Course-->6
-My name is Pawan -->4
-Trying to learn Python -->4
-This is prerequisite to Gen AI of Python -->8
-22
